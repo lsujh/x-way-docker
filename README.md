@@ -11,7 +11,7 @@
 - sudo apt-get -y –force-yes install $PACKAGES 
 
 ### Get the code
-- git clone https://github.com/x-way-docker.git
+- git clone https://github.com/lsujh/x-way-docker.git
 - cd x-way-docker/x-way
 
 ### Install geckodriver for Firefox
